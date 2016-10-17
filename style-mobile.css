@@ -1,0 +1,33 @@
+	body
+	{
+	background-color: orange;
+	}
+
+
+	h1
+	{
+	color: red;
+	}
+
+	p
+	{
+	color: black;
+	font-size: 15px;
+	}
+
+	.container
+	{
+	margin: 5px 5px 5px 5px;
+	}
+	
+@media only screen and (-webkit-device-pixel-ratio:0.75) {
+	body
+	{
+	background-color: red;
+	}
+
+	h1
+	{
+	color: red;
+	}
+}

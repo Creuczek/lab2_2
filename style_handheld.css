@@ -1,0 +1,21 @@
+	body
+	{
+	background-color: orange;
+	}
+
+
+	h1
+	{
+	color: black;
+	}
+
+	p
+	{
+	color: black;
+	font-size: 15px;
+	}
+
+	.container
+	{
+	margin: 5px 5px 5px 5px;
+	}
